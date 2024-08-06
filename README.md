@@ -1,15 +1,11 @@
 <p align="center">
-  <a href="https://sustech-application.github.io/Application-Book">
+  <a href="https://github.com/kkry2004/NJUPTapplication-master">
     <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png" height="150">
   </a>
 </p>
 
 <p align="center">
   南京邮电大学飞跃手册
-</p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/docsify"><img alt="npm" src="https://img.shields.io/npm/v/docsify.svg"></a>
 </p>
 
 ## 引言
