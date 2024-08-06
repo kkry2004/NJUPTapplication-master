@@ -27,5 +27,9 @@
 
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**1792535744@qq.com**，我会帮助你上架。
-2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SurviveNJUPT/NJUPT-Application/tree/master/docs)路径下的对应文件夹Pull Request，可参考 ['doc']文件夹下的 **《如何进行经验分享》**，Merge后便即时上线。请注意文件名请全部使用英文并符合之前的模板，不允许有空格，请使用-代替空格。
-3. 如需更新内容，请及时联系我们！
+2. 如需更新内容或者指正错误，请及时联系我们！
+
+## 友情链接
+
+* 一亩三分地--北美申请论坛 http://www.1point3acres.com/
+* OPENCS https://opencs.app/
