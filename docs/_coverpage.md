@@ -10,7 +10,7 @@
 
 <!-- > NJUPT Application Wiki -->
 
-- NJUPT Application Wiki Since 2019.3
+- NJUPT Application Wiki Since 2024.8
 
 - All Rights Reserved.
 
