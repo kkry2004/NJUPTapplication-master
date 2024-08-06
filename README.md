@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kkry2004/NJUPTapplication-master">
+  <a href="https://kkry2004.github.io//NJUPTapplication-master/">
     <img alt="docsify" src="./docs/src/_media/SUSTech_University_Logo.png" height="150">
   </a>
 </p>
