@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://sustech-application.com/">
+  <a href="https://kkry2004.github.io//NJUPTapplication-master/#/">
     <img alt="docsify" src="src/_media/SUSTech_University_Logo.png" height="200">
   </a>
 </p>
@@ -10,7 +10,7 @@
 
 <!-- > NJUPT Application Wiki -->
 
-- NJUPT Application Wiki Since 2019.3
+- NJUPT Application Wiki Since 2024.8
 
 - All Rights Reserved.
 
