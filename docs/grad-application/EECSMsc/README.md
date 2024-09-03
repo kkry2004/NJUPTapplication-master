@@ -6,9 +6,6 @@
 #### 美国&加拿大:
 
   - [19级-梁恒 加拿大 软件工程](grad-application/EECSMsc/[US]-19-liangheng.md)
-  - [15级-谢丹宁 南科大样本](grad-application/computer-science-and-engineering/[US]-15-xiedanning.md) 内含PhD面经！
 
 #### 英国&澳大利亚&香港&澳门&新加坡:
-  - [19级-陈星宇 南科大样本](grad-application/computer-science-and-engineering/[US]-19-chenxingyu.md)
-  - [19级-杨文汉夫 南科大样本](grad-application/computer-science-and-engineering/[US]-19-yangwenhanfu.md)
   
