@@ -1,4 +1,6 @@
-- 个人申请总结 
+- [前言](README.md)
+
+- 个人申请总结
 
   - [EE&CS授课型](grad-application/EECSMsc/README.md)
 
